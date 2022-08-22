@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adarsh Kumar\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj": {}
+    "C:\\Users\\adarsh.k\\Source\\Repos\\adarsh2905\\CRUD_App\\CrudApp\\CrudApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adarsh Kumar\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj": {
+    "C:\\Users\\adarsh.k\\Source\\Repos\\adarsh2905\\CRUD_App\\CrudApp\\CrudApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adarsh Kumar\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
+        "projectUniqueName": "C:\\Users\\adarsh.k\\Source\\Repos\\adarsh2905\\CRUD_App\\CrudApp\\CrudApp.csproj",
         "projectName": "CrudApp",
-        "projectPath": "C:\\Users\\Adarsh Kumar\\source\\repos\\CrudApp\\CrudApp\\CrudApp.csproj",
-        "packagesPath": "C:\\Users\\Adarsh Kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adarsh Kumar\\source\\repos\\CrudApp\\CrudApp\\obj\\",
+        "projectPath": "C:\\Users\\adarsh.k\\Source\\Repos\\adarsh2905\\CRUD_App\\CrudApp\\CrudApp.csproj",
+        "packagesPath": "C:\\Users\\adarsh.k\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adarsh.k\\Source\\Repos\\adarsh2905\\CRUD_App\\CrudApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Adarsh Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\adarsh.k\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
